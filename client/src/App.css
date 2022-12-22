@@ -1,0 +1,27 @@
+.app {
+  font-family: 'Nunito', sans-serif;
+}
+
+.addTaskBtn {
+  background-color: #ede0c9 !important;
+  color: black !important;
+  border :none !important
+}
+
+.remove{
+  background-color: #c2b0be !important;
+  border :none !important;
+  color: black !important;
+}
+
+.edit {
+  background-color: #ede0c9 !important;
+  border :none !important;
+  color: black !important;
+}
+
+.semibold{
+  font-family: 'Nunito', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+}
